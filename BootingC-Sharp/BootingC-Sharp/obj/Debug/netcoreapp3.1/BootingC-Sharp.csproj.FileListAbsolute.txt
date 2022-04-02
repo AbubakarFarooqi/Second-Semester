@@ -1,0 +1,14 @@
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\bin\Debug\netcoreapp3.1\BootingC-Sharp.exe
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\bin\Debug\netcoreapp3.1\BootingC-Sharp.deps.json
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\bin\Debug\netcoreapp3.1\BootingC-Sharp.runtimeconfig.json
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\bin\Debug\netcoreapp3.1\BootingC-Sharp.runtimeconfig.dev.json
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\bin\Debug\netcoreapp3.1\BootingC-Sharp.dll
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\bin\Debug\netcoreapp3.1\BootingC-Sharp.pdb
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.csproj.AssemblyReference.cache
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.AssemblyInfoInputs.cache
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.AssemblyInfo.cs
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.csproj.CoreCompileInputs.cache
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.dll
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.pdb
+D:\BSCS\2nd Semester\OOP\Weak 1\BootingC-Sharp\BootingC-Sharp\obj\Debug\netcoreapp3.1\BootingC-Sharp.genruntimeconfig.cache

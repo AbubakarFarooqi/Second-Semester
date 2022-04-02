@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manual 1 Area of Square and Triangle", "Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle.csproj", "{CF66A781-6D1A-421F-9599-D89F046FC0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF66A781-6D1A-421F-9599-D89F046FC0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF66A781-6D1A-421F-9599-D89F046FC0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF66A781-6D1A-421F-9599-D89F046FC0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF66A781-6D1A-421F-9599-D89F046FC0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644588DA-FFBB-4974-BEA0-CBD199B4D13A}
+	EndGlobalSection
+EndGlobal

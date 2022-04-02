@@ -1,0 +1,14 @@
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\bin\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.exe
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\bin\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.deps.json
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\bin\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.runtimeconfig.json
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\bin\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.runtimeconfig.dev.json
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\bin\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.dll
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\bin\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.pdb
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.csproj.AssemblyReference.cache
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.AssemblyInfoInputs.cache
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.AssemblyInfo.cs
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.csproj.CoreCompileInputs.cache
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.dll
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.pdb
+D:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 1\Manual 1 Area of Square and Triangle\Manual 1 Area of Square and Triangle\obj\Debug\netcoreapp3.1\Manual 1 Area of Square and Triangle.genruntimeconfig.cache
