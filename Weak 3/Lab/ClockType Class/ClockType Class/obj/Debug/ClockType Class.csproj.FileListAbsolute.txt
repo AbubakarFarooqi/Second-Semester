@@ -1,0 +1,7 @@
+G:\BSCS\2nd Semester\OOP\Weak 3\Lab\ClockType Class\ClockType Class\bin\Debug\ClockType Class.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 3\Lab\ClockType Class\ClockType Class\bin\Debug\ClockType Class.exe
+G:\BSCS\2nd Semester\OOP\Weak 3\Lab\ClockType Class\ClockType Class\bin\Debug\ClockType Class.pdb
+G:\BSCS\2nd Semester\OOP\Weak 3\Lab\ClockType Class\ClockType Class\obj\Debug\ClockType Class.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 3\Lab\ClockType Class\ClockType Class\obj\Debug\ClockType Class.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 3\Lab\ClockType Class\ClockType Class\obj\Debug\ClockType Class.exe
+G:\BSCS\2nd Semester\OOP\Weak 3\Lab\ClockType Class\ClockType Class\obj\Debug\ClockType Class.pdb

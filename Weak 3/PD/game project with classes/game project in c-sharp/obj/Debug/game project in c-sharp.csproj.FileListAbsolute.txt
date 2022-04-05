@@ -1,0 +1,20 @@
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\obj\Debug\game project in c-sharp.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\obj\Debug\game project in c-sharp.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\bin\Debug\game project in c-sharp.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\bin\Debug\game project in c-sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\bin\Debug\game project in c-sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\obj\Debug\game project in c-sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\obj\Debug\game project in c-sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\bin\Debug\EZInput.dll
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\bin\Debug\EZInput.xml
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\game project in c-sharp\game project in c-sharp\obj\Debug\game project in c-sharp.csproj.CopyComplete
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\bin\Debug\game project in c-sharp.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\bin\Debug\game project in c-sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\bin\Debug\game project in c-sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\bin\Debug\EZInput.dll
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\bin\Debug\EZInput.xml
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\obj\Debug\game project in c-sharp.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\obj\Debug\game project in c-sharp.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\obj\Debug\game project in c-sharp.csproj.CopyComplete
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\obj\Debug\game project in c-sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\game project with classes\game project in c-sharp\obj\Debug\game project in c-sharp.pdb

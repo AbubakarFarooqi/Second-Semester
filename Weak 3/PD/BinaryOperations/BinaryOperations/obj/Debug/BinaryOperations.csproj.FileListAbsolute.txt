@@ -1,0 +1,7 @@
+G:\BSCS\2nd Semester\OOP\Weak 3\PD\BinaryOperations\BinaryOperations\bin\Debug\BinaryOperations.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 3\PD\BinaryOperations\BinaryOperations\bin\Debug\BinaryOperations.exe
+G:\BSCS\2nd Semester\OOP\Weak 3\PD\BinaryOperations\BinaryOperations\bin\Debug\BinaryOperations.pdb
+G:\BSCS\2nd Semester\OOP\Weak 3\PD\BinaryOperations\BinaryOperations\obj\Debug\BinaryOperations.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 3\PD\BinaryOperations\BinaryOperations\obj\Debug\BinaryOperations.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 3\PD\BinaryOperations\BinaryOperations\obj\Debug\BinaryOperations.exe
+G:\BSCS\2nd Semester\OOP\Weak 3\PD\BinaryOperations\BinaryOperations\obj\Debug\BinaryOperations.pdb

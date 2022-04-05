@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "self assesment task 1", "self assesment task 1\self assesment task 1.csproj", "{EE2CFAE7-9BB5-4900-9DE0-7920C0064186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2CFAE7-9BB5-4900-9DE0-7920C0064186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2CFAE7-9BB5-4900-9DE0-7920C0064186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2CFAE7-9BB5-4900-9DE0-7920C0064186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2CFAE7-9BB5-4900-9DE0-7920C0064186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8EC72E9-71C7-4804-ADA8-9E9A04F10A91}
+	EndGlobalSection
+EndGlobal

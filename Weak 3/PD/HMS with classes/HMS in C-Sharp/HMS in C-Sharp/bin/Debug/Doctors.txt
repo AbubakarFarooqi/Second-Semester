@@ -1,0 +1,3 @@
+Aftab Ali,,12000,On Duty,D12,abc123
+usman,,123,on,D1,1
+12,,20000,12,12,12
