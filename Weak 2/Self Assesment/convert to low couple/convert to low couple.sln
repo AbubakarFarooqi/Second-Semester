@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convert to low couple", "convert to low couple\convert to low couple.csproj", "{51F0596A-532E-45F4-A64E-35C3ECC90D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F0596A-532E-45F4-A64E-35C3ECC90D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F0596A-532E-45F4-A64E-35C3ECC90D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F0596A-532E-45F4-A64E-35C3ECC90D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F0596A-532E-45F4-A64E-35C3ECC90D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B83A79-D085-4192-9BFF-B83FB3AED26E}
+	EndGlobalSection
+EndGlobal

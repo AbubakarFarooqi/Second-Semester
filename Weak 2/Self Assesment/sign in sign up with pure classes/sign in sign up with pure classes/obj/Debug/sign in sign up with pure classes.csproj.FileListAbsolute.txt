@@ -1,0 +1,10 @@
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\bin\Debug\sign in sign up with pure classes.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\bin\Debug\sign in sign up with pure classes.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\bin\Debug\sign in sign up with pure classes.pdb
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\obj\Debug\sign in sign up with pure classes.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\obj\Debug\sign in sign up with pure classes.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\obj\Debug\sign in sign up with pure classes.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\obj\Debug\sign in sign up with pure classes.pdb
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\bin\Debug\EZInput.dll
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\bin\Debug\EZInput.xml
+G:\BSCS\2nd Semester\OOP\Weak 2\Self Assesment\sign in sign up with pure classes\sign in sign up with pure classes\obj\Debug\sign in sign up with pure classes.csproj.CopyComplete

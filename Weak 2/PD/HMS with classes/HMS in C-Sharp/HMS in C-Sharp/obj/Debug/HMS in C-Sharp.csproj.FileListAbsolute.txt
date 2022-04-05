@@ -1,0 +1,30 @@
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EZInput.dll
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EZInput.xml
+G:\BSCS\2nd Semester\OOP\Weak 1\Lab 1\Manual 3\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EZInput.dll
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EZInput.xml
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+C:\Users\Hp\Downloads\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EZInput.dll
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EZInput.xml
+G:\BSCS\2nd Semester\OOP\Weak 2\PD\HMS with classes\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete

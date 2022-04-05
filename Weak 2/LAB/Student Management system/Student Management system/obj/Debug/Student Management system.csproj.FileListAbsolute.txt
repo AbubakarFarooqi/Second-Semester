@@ -1,0 +1,7 @@
+G:\BSCS\2nd Semester\OOP\Weak 2\LAB\Student Management system\Student Management system\obj\Debug\Student Management system.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\LAB\Student Management system\Student Management system\obj\Debug\Student Management system.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 2\LAB\Student Management system\Student Management system\bin\Debug\Student Management system.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 2\LAB\Student Management system\Student Management system\bin\Debug\Student Management system.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\LAB\Student Management system\Student Management system\bin\Debug\Student Management system.pdb
+G:\BSCS\2nd Semester\OOP\Weak 2\LAB\Student Management system\Student Management system\obj\Debug\Student Management system.exe
+G:\BSCS\2nd Semester\OOP\Weak 2\LAB\Student Management system\Student Management system\obj\Debug\Student Management system.pdb
