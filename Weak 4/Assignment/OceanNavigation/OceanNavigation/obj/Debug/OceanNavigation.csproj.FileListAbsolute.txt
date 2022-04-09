@@ -1,7 +1,0 @@
-G:\BSCS\2nd Semester\OOP\Weak 4\Assignment\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
-G:\BSCS\2nd Semester\OOP\Weak 4\Assignment\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
-G:\BSCS\2nd Semester\OOP\Weak 4\Assignment\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
-G:\BSCS\2nd Semester\OOP\Weak 4\Assignment\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
-G:\BSCS\2nd Semester\OOP\Weak 4\Assignment\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
-G:\BSCS\2nd Semester\OOP\Weak 4\Assignment\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
-G:\BSCS\2nd Semester\OOP\Weak 4\Assignment\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
