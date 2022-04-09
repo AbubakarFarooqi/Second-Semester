@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OceanNavigation.BL.Angle">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABABAAAAAACAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.BL.Ship">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <AssociationLine Name="Latitude" Type="OceanNavigation.BL.Angle">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.799" Y="-0.367" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Longitude" Type="OceanNavigation.BL.Angle">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.854" Y="0.129" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEAAIAAAAEAACAACAAAIAAAAAAEAABAAEAAAAAAAAAA=</HashCode>
+      <FileName>BL\Ship.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Latitude" />
+      <Field Name="Longitude" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

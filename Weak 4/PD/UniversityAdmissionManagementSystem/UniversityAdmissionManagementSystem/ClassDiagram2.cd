@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UniversityAdmissionManagementSystem.BL.DegreeProgram">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAIAAACIEgIoUBAAAIAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>BL\DegreeProgram.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="OfferedSubjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.BL.Student">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBxAAAAQQABAAAAAQAAQEAEEACEAAIAEAEgBFEA=</HashCode>
+      <FileName>BL\Student.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Degree" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="Preferences" />
+      <Field Name="RegisteredSubjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.BL.Subject">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAAAAggAAAIAAAIAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>BL\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
