@@ -1,0 +1,7 @@
+G:\BSCS\2nd Semester\OOP\Weak 4\SelfAssesment\UniversityAdmissionManagementSystem\UniversityAdmissionManagementSystem\bin\Debug\UniversityAdmissionManagementSystem.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 4\SelfAssesment\UniversityAdmissionManagementSystem\UniversityAdmissionManagementSystem\bin\Debug\UniversityAdmissionManagementSystem.exe
+G:\BSCS\2nd Semester\OOP\Weak 4\SelfAssesment\UniversityAdmissionManagementSystem\UniversityAdmissionManagementSystem\bin\Debug\UniversityAdmissionManagementSystem.pdb
+G:\BSCS\2nd Semester\OOP\Weak 4\SelfAssesment\UniversityAdmissionManagementSystem\UniversityAdmissionManagementSystem\obj\Debug\UniversityAdmissionManagementSystem.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 4\SelfAssesment\UniversityAdmissionManagementSystem\UniversityAdmissionManagementSystem\obj\Debug\UniversityAdmissionManagementSystem.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 4\SelfAssesment\UniversityAdmissionManagementSystem\UniversityAdmissionManagementSystem\obj\Debug\UniversityAdmissionManagementSystem.exe
+G:\BSCS\2nd Semester\OOP\Weak 4\SelfAssesment\UniversityAdmissionManagementSystem\UniversityAdmissionManagementSystem\obj\Debug\UniversityAdmissionManagementSystem.pdb
