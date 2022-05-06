@@ -1,0 +1,7 @@
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Quiz\Quiz\bin\Debug\Quiz.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Quiz\Quiz\bin\Debug\Quiz.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Quiz\Quiz\bin\Debug\Quiz.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Quiz\Quiz\obj\Debug\Quiz.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Quiz\Quiz\obj\Debug\Quiz.pdb

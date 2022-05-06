@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CoffeProblem.BL.CoffeShop">
+    <Position X="2.5" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAgEBAAADAQAAQAAACAAACEAAABAAAEAACAEAE=</HashCode>
+      <FileName>BL\CoffeShop.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListOfMenuItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CoffeProblem.BL.MenuItem">
+    <Position X="8.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAABAAAQAFAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>BL\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeProblem.DL.CoffeShopCRUD">
+    <Position X="2.5" Y="10" Width="3" />
+    <AssociationLine Name="ListOfShops" Type="CoffeProblem.BL.CoffeShop">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.182" Y="1.054" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAQAAiAAAAAAAAEAAAAAAAAQAA=</HashCode>
+      <FileName>DL\CoffeShopCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListOfShops" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CoffeProblem.DL.MenuItemCRUD">
+    <Position X="8.25" Y="10" Width="2.25" />
+    <AssociationLine Name="ListOfMenuItems" Type="CoffeProblem.BL.MenuItem">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.182" Y="1.605" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAABAAAQAQAAQAAAAAAACAAAAEAAAAAAAAAgA=</HashCode>
+      <FileName>DL\MenuItemCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListOfMenuItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CoffeProblem.UI.CoffeShopUI">
+    <Position X="13.25" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAEAAAAAAAAgAIAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\CoffeShopUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeProblem.UI.MenuItemUI">
+    <Position X="13.25" Y="6.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuItemUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeProblem.UI.SigningUI">
+    <Position X="13.25" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAgAAAAAAA=</HashCode>
+      <FileName>UI\SigningUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

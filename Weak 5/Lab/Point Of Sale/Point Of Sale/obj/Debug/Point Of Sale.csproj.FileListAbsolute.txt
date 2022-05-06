@@ -1,0 +1,6 @@
+G:\BSCS\2nd Semester\OOP\Weak 5\Lab\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 5\Lab\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\Lab\Point Of Sale\Point Of Sale\bin\Debug\Point Of Sale.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\Lab\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\Lab\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\Lab\Point Of Sale\Point Of Sale\obj\Debug\Point Of Sale.csprojResolveAssemblyReference.cache

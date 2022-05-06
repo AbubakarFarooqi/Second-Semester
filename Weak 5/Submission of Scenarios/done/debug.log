@@ -1,0 +1,10 @@
+[0424/093332.613:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0424/094930.226:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0424/154122.481:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0424/154127.367:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[0425/062124.645:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0425/063310.796:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0425/063637.520:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(55,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(63,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+

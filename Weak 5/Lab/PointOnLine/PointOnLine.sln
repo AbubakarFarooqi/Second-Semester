@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOnLine", "PointOnLine\PointOnLine.csproj", "{5321E913-1804-4421-8410-30FB6879E127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5321E913-1804-4421-8410-30FB6879E127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5321E913-1804-4421-8410-30FB6879E127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5321E913-1804-4421-8410-30FB6879E127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5321E913-1804-4421-8410-30FB6879E127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C426FEA5-A0FB-46F0-96D5-7443C41343E4}
+	EndGlobalSection
+EndGlobal

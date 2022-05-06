@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="&lt;&lt;Degree &gt;=0 &amp;&amp; Degree &lt;=180 &amp;&amp; ( Direction =='E' || Direction == 'W')&gt;&gt;">
+    <Position X="2.484" Y="1.266" Height="0.406" Width="4.867" />
+  </Comment>
+  <Comment CommentText="&lt;&lt;Degree &gt;=0 &amp;&amp; Degree &lt;=90 &amp;&amp; ( Direction =='N' || Direction == 'S')&gt;&gt;">
+    <Position X="2.757" Y="3.075" Height="0.406" Width="4.717" />
+  </Comment>
+  <Class Name="OceanNavigation.BL.Angle" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEgABABAAAAAACAABAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.BL.Ship" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="2" />
+    <AssociationLine Name="Latitude" Type="OceanNavigation.BL.Angle">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="2.048" Y="0.105" Height="0.182" Width="1.91" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Longitude" Type="OceanNavigation.BL.Angle" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.5" Y="2.5" />
+        <Point X="8.5" Y="2.125" />
+        <Point X="1.625" Y="2.125" />
+        <Point X="1.625" Y="2.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-3.59" Y="0.563" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEAAIAACAEAAAAACAAAIAACAAAEAABAAEAAAAAAAAAA=</HashCode>
+      <FileName>BL\Ship.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Latitude" />
+      <Field Name="Longitude" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OceanNavigation.DL.ShipCRUD" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="2" />
+    <AssociationLine Name="ListOfShips" Type="OceanNavigation.BL.Ship">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.638" Y="0.113" Height="0.182" Width="1.944" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAgAAAAAAAAAARAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>DL\ShipCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListOfShips" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OceanNavigation.UI.ui" Collapsed="true">
+    <Position X="16" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAgAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>UI\ui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

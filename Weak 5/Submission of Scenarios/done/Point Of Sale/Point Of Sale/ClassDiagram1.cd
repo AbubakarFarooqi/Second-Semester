@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Point_Of_Sale.BL.Admin">
+    <Position X="13.5" Y="7.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale.BL.Customer">
+    <Position X="0.5" Y="1.75" Width="2.25" />
+    <AssociationLine Name="BuyList" Type="Point_Of_Sale.BL.Product" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.625" Y="1.75" />
+        <Point X="1.625" Y="1.125" />
+        <Point X="9.5" Y="1.125" />
+        <Point X="9.5" Y="1.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="1.846" Y="0.501" Height="0.182" Width="2.103" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAgACAAAAIIAAAABAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="BuyList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Point_Of_Sale.BL.MUser">
+    <Position X="4" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABgACAEAAIAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale.BL.Product">
+    <Position X="8.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AUABAAAAAAAAAAAAgAAAABAEgAAEAAAAAIAMgAAAAAA=</HashCode>
+      <FileName>BL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale.BL.ProductCRUD">
+    <Position X="8" Y="7.75" Width="3" />
+    <AssociationLine Name="ListOfProducts" Type="Point_Of_Sale.BL.Product">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="1.231" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAQg=</HashCode>
+      <FileName>DL\ProductCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListOfProducts" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Point_Of_Sale.DL.MUserCRUD">
+    <Position X="4" Y="7.75" Width="2.25" />
+    <AssociationLine Name="listOfUsers" Type="Point_Of_Sale.BL.MUser">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.248" Y="1.107" Height="0.182" Width="2.009" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAEAgAAAABAQAAAAAAAAAIAAAAAAAAgACCAAAAAAA=</HashCode>
+      <FileName>DL\MUserCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="listOfUsers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Point_Of_Sale.UI.MenuUI">
+    <Position X="13.75" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAAEAAAAAAAAABAAIAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

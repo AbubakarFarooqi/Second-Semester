@@ -1,0 +1,7 @@
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Point And Boundry\Point And Boundry\obj\Debug\Point And Boundry.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Point And Boundry\Point And Boundry\obj\Debug\Point And Boundry.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Point And Boundry\Point And Boundry\bin\Debug\Point And Boundry.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Point And Boundry\Point And Boundry\bin\Debug\Point And Boundry.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Point And Boundry\Point And Boundry\bin\Debug\Point And Boundry.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Point And Boundry\Point And Boundry\obj\Debug\Point And Boundry.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\Point And Boundry\Point And Boundry\obj\Debug\Point And Boundry.pdb

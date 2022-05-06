@@ -1,0 +1,10 @@
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\bin\Debug\Packman.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\bin\Debug\Packman.exe
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\bin\Debug\Packman.pdb
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\bin\Debug\EZInput.dll
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\bin\Debug\EZInput.xml
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\obj\Debug\Packman.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\obj\Debug\Packman.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\obj\Debug\Packman.csproj.CopyComplete
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\obj\Debug\Packman.exe
+G:\BSCS\2nd Semester\OOP\Weak 6\PD\Packman\Packman\obj\Debug\Packman.pdb

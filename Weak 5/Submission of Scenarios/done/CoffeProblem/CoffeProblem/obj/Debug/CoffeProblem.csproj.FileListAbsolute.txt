@@ -1,0 +1,17 @@
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\CoffeProblem\CoffeProblem\bin\Debug\CoffeProblem.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\CoffeProblem\CoffeProblem\bin\Debug\CoffeProblem.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\CoffeProblem\CoffeProblem\bin\Debug\CoffeProblem.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\PD\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\CoffeProblem\CoffeProblem\bin\Debug\CoffeProblem.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\CoffeProblem\CoffeProblem\bin\Debug\CoffeProblem.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\CoffeProblem\CoffeProblem\bin\Debug\CoffeProblem.pdb
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.csproj.AssemblyReference.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.csproj.CoreCompileInputs.cache
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\done\CoffeProblem\CoffeProblem\bin\Debug\CoffeProblem.exe.config
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\done\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.exe
+G:\BSCS\2nd Semester\OOP\Weak 5\Submission of Scenarios\done\CoffeProblem\CoffeProblem\obj\Debug\CoffeProblem.pdb

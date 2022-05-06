@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="&lt;&lt;CH&lt;=20&gt;&gt;&#xD;&#xA;">
+    <Position X="4.551" Y="5.935" Height="0.291" Width="1.135" />
+  </Comment>
+  <Comment CommentText="&lt;&lt;CH&lt;=9 &amp;&amp; Registered Degree Program">
+    <Position X="7.56" Y="3.707" Height="0.291" Width="2.928" />
+  </Comment>
+  <Class Name="UniversityAdmissionManagementSystem.BL.DegreeProgram">
+    <Position X="7.25" Y="5" Width="3" />
+    <AssociationLine Name="OfferedSubjects" Type="UniversityAdmissionManagementSystem.BL.Subject">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="1.335" Y="0.092" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>BACAAAAKAAACIEgIgUBAAAIAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>BL\DegreeProgram.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="OfferedSubjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.BL.Student">
+    <Position X="14.5" Y="5" Width="3.25" />
+    <AssociationLine Name="RegisteredSubjects" Type="UniversityAdmissionManagementSystem.BL.Subject" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.625" Y="5" />
+        <Point X="15.625" Y="4.625" />
+        <Point X="2.25" Y="4.625" />
+        <Point X="2.25" Y="5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-7.915" Y="0.618" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Preferences" Type="UniversityAdmissionManagementSystem.BL.DegreeProgram">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.969" Y="0.17" Height="0.182" Width="3.996" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="RegisteredDegree" Type="UniversityAdmissionManagementSystem.BL.DegreeProgram" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="8.375" />
+        <Point X="14.125" Y="8.375" />
+        <Point X="14.125" Y="8.375" />
+        <Point X="10.25" Y="8.375" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="1.327" Y="0.123" Height="0.182" Width="2.566" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIBxAAAAQQABAAAAAQAAAEBEEACEAAIAEAEgBFUA=</HashCode>
+      <FileName>BL\Student.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="RegisteredDegree" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="Preferences" />
+      <Field Name="RegisteredSubjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.BL.Subject">
+    <Position X="0.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAAAAggAAAIAAAIAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>BL\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.DL.DegreeProgramCRUD">
+    <Position X="7.25" Y="12.5" Width="3" />
+    <AssociationLine Name="OfferedPrograms" Type="UniversityAdmissionManagementSystem.BL.DegreeProgram">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="1.376" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\DegreeProgramCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="OfferedPrograms" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.DL.StudentCRUD">
+    <Position X="14.5" Y="12.5" Width="3.25" />
+    <AssociationLine Name="Candidates" Type="UniversityAdmissionManagementSystem.BL.Student">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.536" Y="1" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAA=</HashCode>
+      <FileName>DL\StudentCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Candidates" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.DL.SubjectCRUD">
+    <Position X="0.75" Y="12.5" Width="2.25" />
+    <AssociationLine Name="AvailableSubjects" Type="UniversityAdmissionManagementSystem.BL.Subject">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="2.727" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\SubjectCRUD.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="AvailableSubjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="UniversityAdmissionManagementSystem.UI.ui">
+    <Position X="22.25" Y="7.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAIIAAAAAAAABAAASQAAAAAAAAAAICQAAAAA=</HashCode>
+      <FileName>UI\ui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
